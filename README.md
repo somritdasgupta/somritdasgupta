@@ -7,9 +7,9 @@
 
 🌱 I’m currently exploring more on **Dockerization**
 
-👨‍💻 Visit my webpage at [https://somrit.vercel.app](https://somrit.vercel.app)
+👨‍💻 Visit my webpage at [here](https://somrit.vercel.app)
 
-📝 Rarely I write interesting blogs on [https://somrit.hashnode.com](https://somrit.hashnode.com)
+📝 Rarely do I write interesting blogs on [Hashnode](https://somrit.hashnode.dev)
 
 💬 Ask me about **react, flutter**
 
