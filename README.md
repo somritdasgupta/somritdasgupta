@@ -11,9 +11,7 @@
 
 📝 Rarely do I write interesting blogs on [Hashnode](https://somrit.hashnode.dev)
 
-💬 Ask me about **react, flutter**
-
-📧 You can reach me at **somritdasgupta7@gmail.com**
+📧 You can reach me at **somritdasgupta@outlook.com**
 
 ⚡ Oh wait! **The Eiffel Tower can be 15 cm taller during the summer months due to thermal expansion caused by the heat.**
 
