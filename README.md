@@ -1,4 +1,5 @@
 <img style="width:100%;height:3px;" src="./bar.gif" />
+
 # Hey, I'm Somrit 👋
 
 🔭 I’m currently learning more on **Cloud Technologies Integration with Generative AI Services**
