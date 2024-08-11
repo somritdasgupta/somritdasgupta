@@ -26,7 +26,7 @@ Feel free to reach out to me via **[@mail](mailto:somritdasgupta@outlook.com)**
   <a href="https://linkedin.com/in/somritdasgupta" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Somrit's LinkedIn" height="25" width="25" />
   </a>
-  <a href="https://www.buymeacoffee.com/yourusername" target="blank">
+  <a href="https://www.buymeacoffee.com/somritdasgupta" target="blank">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy a Coffee to Somrit" height="25" width="90" />
   </a>
 </p>
