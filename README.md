@@ -8,7 +8,7 @@ I’m an engineer and I like to work and experiment with modern technologies.
 
 I have most experience with frontend development as well as integrating the backend solutions. Mainly I have my development works based on **[React](https://react.dev)**, **[Node.js](https://nodejs.org/)** and mostly uses **[TypeScript](https://www.typescriptlang.org/)** for writing the codes. Currently I am working with the **[Next.js](https://nextjs.org/)** stack and it really seems more seamless after the ["/app"](https://nextjs.org/blog/june-2023-update) router update.
 
-I’m also experimenting on how **[generative AI](https://www.technologyreview.com/2021/07/20/what-is-generative-ai/)** can simplify development tasks, especially with **[RAG (Retrieval-Augmented Generation)](https://arxiv.org/abs/2005.11401)** for fetching information from real-time data after the pre-training, and till now it seems pretty cool.
+I’m also experimenting on how **[generative AI](https://research.ibm.com/blog/what-is-generative-AI)** can simplify development tasks, especially with **[RAG (Retrieval-Augmented Generation)](https://arxiv.org/abs/2005.11401)** for fetching information from real-time data after the pre-training, and till now it seems pretty cool.
 
 #### 📝 Blog
 
