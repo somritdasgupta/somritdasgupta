@@ -1,8 +1,8 @@
-<img style="width:100%;height:3px;" src="./bar.gif" />
+<img style="width:100%;height:2px;" src="./bar.gif" />
 
 ## Hi, I'm Somrit
 
-I build things over the internet. Clean code, and experiments all the way along.
+I build things over the internet.
 
 ---
 
